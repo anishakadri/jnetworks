@@ -1,3 +1,5 @@
+IN PROGRESS: an imporved version 
+
 #jnetworks
 This is a library for studying and using graphs.
 
